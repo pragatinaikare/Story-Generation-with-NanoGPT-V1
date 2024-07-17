@@ -47,7 +47,7 @@ Training Loss: 2.0
 Validation Loss: 1.88
 
 ![Alt text](Images/lossSnap.png)
-## Output Snapshots 
+## Output Snapshot
 
 ![Alt text](Images/OutputSnap.png)
 
