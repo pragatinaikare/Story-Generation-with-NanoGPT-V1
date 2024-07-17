@@ -24,14 +24,15 @@ Trained on predicting next token in the vocabulary of size 50k​
 | 28M      | 4          | 256                     | 8                   | 1.2B               | 512                 |
 
 ​
-​<table>
-  <tr style="background-color: #f2f2f2;">
-    <th>Size</th>
-    <th>Layers</th>
-    <th>Embedding Dimension</th>
-    <th>Attention Heads</th>
-    <th>Tokens Trained</th>
-    <th>Context Length</th>
+
+<table>
+  <tr style="background-color: #0074D9; color: white;">
+    <th style="font-weight: bold;">Size</th>
+    <th style="font-weight: bold;">Layers</th>
+    <th style="font-weight: bold;">Embedding Dimension</th>
+    <th style="font-weight: bold;">Attention Heads</th>
+    <th style="font-weight: bold;">Tokens Trained</th>
+    <th style="font-weight: bold;">Context Length</th>
   </tr>
   <tr>
     <td>28M</td>
@@ -42,6 +43,8 @@ Trained on predicting next token in the vocabulary of size 50k​
     <td>512</td>
   </tr>
 </table>
+
+
 ## Evaluation
 Model: nanoGPT (28.02 Million parameters)
 
