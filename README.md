@@ -19,12 +19,6 @@ Trained a small language model of 28Million parameters ​
 
 Trained on predicting next token in the vocabulary of size 50k​
 
-| **Size** | **Layers** | **Embedding Dimension** | **Attention Heads** | **Tokens Trained** | **Context Length** |
-|----------|------------|-------------------------|---------------------|--------------------|---------------------|
-| 28M      | 4          | 256                     | 8                   | 1.2B               | 512                 |
-
-​
-
 <table>
   <tr style="background-color: #0074D9; color: white;">
     <th style="font-weight: bold;">Size</th>
