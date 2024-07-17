@@ -11,13 +11,13 @@ This project involves developing a nanoGPT language model from scratch to genera
 - **Generating a Batch**: Selected 100 stories randomly. Added start and end token to distinguish stories and selected a window context length size tokens randomly.
 
 ## Training 
-Replicated the pretraining phase of LLM to generate a story. ​
+- Replicated the pretraining phase of LLM to generate a story. ​
 
 
-Trained a small language model of 28Million parameters ​
+- Trained a small language model of 28Million parameters ​
 
 
-Trained on predicting next token in the vocabulary of size 50k​
+- Trained on predicting next token in the vocabulary of size 50k​
 
 <table>
   <tr style="background-color: #0074D9; color: white;">
